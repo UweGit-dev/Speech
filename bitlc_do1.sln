@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitlc_do1", "bitlc_do1\bitlc_do1.csproj", "{F871A1B6-9396-4BD7-938B-44364FE14C82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F871A1B6-9396-4BD7-938B-44364FE14C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F871A1B6-9396-4BD7-938B-44364FE14C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F871A1B6-9396-4BD7-938B-44364FE14C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F871A1B6-9396-4BD7-938B-44364FE14C82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {265E0044-832F-426A-A5A0-D59F70F55FBF}
+	EndGlobalSection
+EndGlobal

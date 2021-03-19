@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="bitlc_do1.AssistSonja">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DBCAoiIAoCAVGIGAAIjYIFKaAIEIQFCgEGw4zEgREAA=</HashCode>
+      <FileName>Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bitlc_do1.ModulAction">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAACAAAAAACAAAAAI=</HashCode>
+      <FileName>ModulAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bitlc_do1.ModulAction_Wiki">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="bitlc_do1.ModulAction_Wiki.Resulti" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ModulAction_Wiki.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="bitlc_do1.ModulAction_Wiki.Query" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ModulAction_Wiki.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="bitlc_do1.ModulAction_Wiki.Page" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ModulAction_Wiki.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>ModulAction_Wiki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bitlc_do1.ModulAIMLBot">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAEAAQAAAAAAABAAAAAAACAAAAAI=</HashCode>
+      <FileName>ModulAIMLBot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bitlc_do1.ModulMainSynt">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAQAAICAAAAAAAAABgACAAAAAI=</HashCode>
+      <FileName>ModulMainSynt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bitlc_do1.ModulRec">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAABAAAAAAAQAAAgIAAAACAAAAAAAACAAAAAI=</HashCode>
+      <FileName>ModulRec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bitlc_do1.ModulSound">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAQAAAIAAAAAAAgAAAAAAAAAAACAAgAAI=</HashCode>
+      <FileName>ModulSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bitlc_do1.ModulSynt">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAACAAAAAAACAAABQI=</HashCode>
+      <FileName>ModulSynt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bitlc_do1.Program">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bitlc_do1.Univers">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAgAAAAIAAAAAAAIAAAAAAAAAAABAIAQAA=</HashCode>
+      <FileName>Univers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bitlc_do1.Properties.Resources" Collapsed="true">
+    <Position X="7.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAREAAAAQAAAAAAAIAAAAAAAMA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bitlc_do1.Properties.Settings">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
